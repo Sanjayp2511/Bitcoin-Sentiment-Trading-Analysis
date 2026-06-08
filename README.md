@@ -22,4 +22,4 @@ Analyze the relationship between Bitcoin market sentiment (Fear & Greed Index) a
 
 ## Files
 - Bitcoin_Sentiment_Analysis_Report.pdf
-- Analysis Notebook (.ipynb)
+- Bitcoin_Sentiment_Analysis Notebook (.ipynb)
